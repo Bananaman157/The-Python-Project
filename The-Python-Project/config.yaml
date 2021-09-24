@@ -1,0 +1,5 @@
+for key, value in dictionary.items():
+  print (key + " : " + str(value))
+  
+  name: The-Python-Project-YAML
+  url: https://github.com/Bananaman157/The-Python-Project.git
